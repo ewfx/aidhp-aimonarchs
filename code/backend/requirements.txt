@@ -97,7 +97,6 @@ tokenizers==0.20.3
 tomli==2.2.1
 torch==2.4.1
 tqdm==4.67.1
-transformers==4.46.3
 typer==0.15.2
 typing_extensions==4.12.2
 urllib3==2.2.3
