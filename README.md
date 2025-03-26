@@ -17,10 +17,8 @@
 Our solution - FinPersona is an advanced, real-time AI-driven banking recommendation platform that delivers hyper-personalize product/service recommendations and financial insights. The system analyzes customer data across multiple dimensions based on thier transactions, financial goals, and, feedback to provide tailored financial guidance, helping users make better financial decisions while enabling our bank to offer more relevant products and services.
 
 ## 🎥 Demo
-📹 Video demo -  
-🖼️ Screenshots -
-
-![Screenshot 1](link-to-image)
+📹 Video demo -  https://drive.google.com/file/d/1wFyZ_BCUCrZmPTKtG6p-tM7CQV0pGd3L/view
+🖼️ Screenshots - Please refer: https://github.com/ewfx/aidhp-aimonarchs/tree/main/artifacts/screenshots
 
 ## 💡 Inspiration
 The inspiration behind our solution came from observing the disconnect between modern banking products and individual customer needs. Traditional banking recommendations are often generic and fail to consider the nuanced financial situations of users. We saw an opportunity to transform the banking experience by creating a system that truly understands each customer's financial profile, behavior patterns, and goals, then delivers tailored guidance that feels like having a personal financial advisor available 24/7.
