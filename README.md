@@ -19,6 +19,8 @@ Our solution - FinPersona is an advanced, real-time AI-driven banking recommenda
 ## 🎥 Demo
 📹 Video demo -  https://drive.google.com/file/d/1wFyZ_BCUCrZmPTKtG6p-tM7CQV0pGd3L/view
 
+🏗️ PPT - https://github.com/ewfx/aidhp-aimonarchs/blob/main/artifacts/demo/FinPersonaAI%20-%20AImonarchs.pptx
+
 🖼️ Screenshots - Please refer: https://github.com/ewfx/aidhp-aimonarchs/tree/main/artifacts/screenshots
 
 ## 💡 Inspiration
